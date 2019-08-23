@@ -1,0 +1,21 @@
+id,name,description,price,quantity,image
+1,"Coder's Tears","The bitterist grounds on the planet! Surely they were watered only with the rage-fuelled tears of exhausted programmers!",19.99,1,item001.jpg
+2,"Magic Pixie Dust","A sweeter blend, you'll taste the happy.",19.99,1,item002.jpg
+3,"Detroit Blend","We just slapped "Detroit" on it so we can charge more, because people will pay.",29.99,1,item003.jpg
+4,Svenskaaahhh,"You didn't even know they grew coffee beans in Sweden, did you?",24.99,1,item004.jpg
+5,Grinder,"Turn those beans into brown crack powder!",39.99,1,item005.jpg
+6,"Electric Grinder","Ain't nobody got time for manual labor!",79.99,1,item006.jpg
+7,"Small Coffee Maker","Just a quick cup to start the day.",49.99,1,item007.jpg
+8,"Medium Coffee Maker","Two drink minimum.",69.99,1,item008.jpg
+9,"Large Coffee Maker",Glug-glug-glug-glug-glug-glug-glug!,89.99,1,item009.jpg
+10,"Espresso Maker","Distilled to perfection. No X's here.",99.99,1,item010.jpg
+11,"Pack of Danishes","The perfect accompaniment. Not actually from Denmark.",14.99,1,item011.jpg
+12,"Pack of Scones","If you're feeling more cultured with your breakfast today, this is the choice to make.",17.99,1,item012.jpg
+13,"Pack of Bagels","Yes, some of my friends call me "bagel". No, I won't tell you the story.",16.99,1,"item013.jpg "
+14,"Coffee Mug","Let everyone know what your favorite coffee shop is!",12.99,1,item014.jpg
+15,"Travel Mug","Take your liquid brown crack on the go with you! Space-age technology means it'll stay hot for hours.",16.99,1,item015.jpg
+16,T-shirt,"Has our sweet logo on it. Made of 100% lycra cotton, this shirt is so comfortable you won't even feel it.",18.99,1,item016.jpg
+17,Sweater,"Yes, it does unfortunately snow around here once in a while. Stay warm and toasty with this sweater and a mug of coffee!",21.99,1,item017.jpg
+18,"Standard Creamer","Lactose-free, add a dash of this to smooth out the flavor if your tastebuds are sensitive.",11.99,1,item018.jpg
+19,"Hazelnut Creamer","The same magical ingredient found in Nutella. Combine this with Magic Pixie Dust and you might fart a rainbow.",11.99,1,item019.jpg
+20,"Cinammon Creamer","Adds a kick to your cup. And you didn't think it could get any stronger, did you?",11.99,1,item020.jpg
